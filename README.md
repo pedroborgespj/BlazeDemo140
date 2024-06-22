@@ -33,8 +33,8 @@ Para executar os testes, siga os passos abaixo:
    - Instalação da SeleniumLibrary (`pip install robotframework-seleniumlibrary`).
 
 2. **Clonar o Repositório**:
-git clone 
-cd 
+git clone https://github.com/pedroborgespj/BlazeDemo140
+cd BlazeDemo140
 
 3. **Executar os Testes**:
 robot .\tests\
